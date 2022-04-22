@@ -16,6 +16,4 @@ Important disclaimer: if you get stuck at one exercise, **DO NOT SKIP IT**. Send
 
 To start, create a new folder on your computer and run the following in the terminal: `git clone git@github.com:dedemenezes/practicing-ruby-out.git`
 
-Then go inside batch-358/exercises/practicing-ruby-out
-
 And then hop into the 01-testing-your-code folder!
