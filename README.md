@@ -14,7 +14,7 @@ If you're okay with that, then let's start! Arm yourself with **PATIENCE**, **FO
 
 Important disclaimer: if you get stuck at one exercise, **DO NOT SKIP IT**. Send me messages on Slack and I'll help you.
 
-To start, create a new folder on your computer and run the following in the terminal: `git clone git@github.com:mcpenchel/batch-358.git`
+To start, create a new folder on your computer and run the following in the terminal: `git clone git@github.com:dedemenezes/practicing-ruby-out.git`
 
 Then go inside batch-358/exercises/practicing-ruby-out
 
