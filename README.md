@@ -1,6 +1,6 @@
 ## Extra exercises
 
-If you're here, it means you're not feeling very comfortable with ruby and/or databases. Don't feel bad about it, that is alright. It doesn't mean that you're slow or that programming is not for you, it just means that your learning path is different.
+"If you're here, it means you're not feeling very comfortable with ruby and/or databases. Don't feel bad about it, that is alright. It doesn't mean that you're slow or that programming is not for you, it just means that your learning path is different.
 
 Your batch, the 358, is my 12th batch so far. I had some students before who were completely lost, who spent two weekends practicing stuff and then became extremely confident and comfortable with ruby. And other pretty lost students who, after their batch, spent months studying and then opened their own business - programming everything in them - and became quite rich.
 
@@ -12,10 +12,10 @@ So it is, in the end, up to you. Okay? You need to have initiative. I've built t
 
 If you're okay with that, then let's start! Arm yourself with **PATIENCE**, **FOCUS** and **CONFIDENCE**, it's all that you need to learn how to code.
 
-Important disclaimer: if you get stuck at one exercise, **DO NOT SKIP IT**. Send me messages on Slack and I'll help you.
+Important disclaimer: if you get stuck at one exercise, **DO NOT SKIP IT**. Send me messages on Slack and I'll help you."
 
-To start, create a new folder on your computer and run the following in the terminal: `git clone git@github.com:mcpenchel/batch-358.git`
+_original message from Matheus Penchel to batch-358_
 
-Then go inside batch-358/exercises/practicing-ruby-out
+To start, create a new folder on your computer and run the following in the terminal: `git clone git@github.com:dedemenezes/practicing-ruby-out.git`
 
 And then hop into the 01-testing-your-code folder!
