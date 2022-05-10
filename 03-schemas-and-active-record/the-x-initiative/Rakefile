@@ -72,6 +72,6 @@ db_namespace = namespace :db do
   private
 
   def db_path
-    ActiveRecord::Base.configurations['development']['database']
+    ActiveRecord::Base.configurations.configs_for(env_name: 'development', name: 'primary').database
   end
 end
