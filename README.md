@@ -16,6 +16,13 @@ Important disclaimer: if you get stuck at one exercise, **DO NOT SKIP IT**. Send
 
 _original message from Matheus Penchel to batch-358_
 
-To start, create a new folder on your computer and run the following in the terminal: `git clone git@github.com:dedemenezes/practicing-ruby-out.git`
+To start, run the following in the terminal: 
 
-And then hop into the 01-testing-your-code folder!
+```zsh
+export GITHUB_USERNAME=`gh api user | jq -r '.login'`
+echo $GITHUB_USERNAME
+cd ~/code/$GITHUB_USERNAME
+git clone git@github.com:dedemenezes/practicing-ruby-out.git
+```
+
+And then hop into the `practicing-ruby-out` folder!
