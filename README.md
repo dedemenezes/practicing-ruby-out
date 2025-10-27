@@ -23,6 +23,7 @@ export GITHUB_USERNAME=`gh api user | jq -r '.login'`
 echo $GITHUB_USERNAME
 cd ~/code/$GITHUB_USERNAME
 git clone git@github.com:dedemenezes/practicing-ruby-out.git
+cd practicing-ruby-out
 ```
 
 And then hop into the `practicing-ruby-out` folder!
